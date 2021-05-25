@@ -1,0 +1,24 @@
+h1{
+    color :purple            
+}
+
+.header{
+    display : flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   
+
+    
+   
+
+
+}
+
+.below{
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+   
+}
